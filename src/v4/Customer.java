@@ -22,6 +22,10 @@ public class Customer
 		return _name;
 	}
 
+	public double getTotalAmount(){
+
+	}
+
 	public String statement()
 	{
 		double totalAmount = 0;
